@@ -1,0 +1,5 @@
+1. Decorator
+2. Logout button
+3. Login-Manager
+4. HTML form 
+5. Login with roles

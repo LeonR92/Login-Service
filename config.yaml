@@ -1,0 +1,4 @@
+users:
+  admin:
+    password: $2b$12$vYFXTzZtJK1pNCwsFWQ00uT.cv96SqngX88xRXyUywd3ukNSOiOC.
+    role: admin
