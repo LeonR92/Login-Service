@@ -1,0 +1,7 @@
+users:
+  admin:
+    password: $2b$12$fdr4AlDOd/fLIslCgEM2AuY9vRrnZGCDnwva6eoEDBTC0Vh/DTjKG
+    role: admin
+  user:
+    password: $2b$12$h90qcFPLFMTcGUl7jIQlI.6LCqnFz499L2ualBKA1f2OFriO1cGO2
+    role: user
